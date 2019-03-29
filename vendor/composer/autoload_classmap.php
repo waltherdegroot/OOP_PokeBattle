@@ -8,7 +8,7 @@ $baseDir = dirname($vendorDir);
 return array(
     'Attack' => $baseDir . '/Classes/Attack.php',
     'EnergyType' => $baseDir . '/Classes/EnergyType.php',
-    'PokeMon' => $baseDir . '/Classes/PokeMon.php',
+    'Pokemon' => $baseDir . '/Classes/Pokemon.php',
     'Resistance' => $baseDir . '/Classes/Resistance.php',
     'Weakness' => $baseDir . '/Classes/Weakness.php',
 );

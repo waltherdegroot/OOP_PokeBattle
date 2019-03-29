@@ -1,6 +1,6 @@
 <?php
 
-class Weakness Extends EnergyType{
+class Weakness extends EnergyType{
     public $multiplier;
 
     public function __construct($weakness, $multiplier){
